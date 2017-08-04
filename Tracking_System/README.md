@@ -41,7 +41,7 @@ resolution, report generation etc.
 • I then gathered all the requirements as in installed all the required tools and software’s.
 • Designed how the application should look like.
 • Then I started coding for the application development. For the front-end I have used HTML/CSS, JavaScript, Bootstrap. Back-end coding
-was done in C# .NET.
+was done in .NET.
 • Simultaneously, I was working on the database design and the database connections.
 • Testing was bit easy as I was using Visual Studio, which helps in fixing the errors immediately while coding.
 
