@@ -18,21 +18,14 @@ this as my project.
 
 
 The process module of the application which is given above gives a visual representation of the application functioning. It describes the following:
-
 • Requesting for a ticket: The user who has network issues or system problems, will have to request for a ticket so that the issue could
 be resolved.
-
 • Ticket Submission: Then the ticket will be submitted to the system by the user describing what the problem is.
-
 • Ticket assignment: The ticket will be assigned to the user who requests for one. This will be done by automatically or can be done by 
 the admin.
-
 • Transferring the ticket to the technician: The ticket will be forwarded to the technician who will have to resolve the issue.
-
 • Resolving the issue: The technician will resolve the issue.
-
 • Reporting the issue: The technician will report the issue if it is resolved and keeps the status of the issue updated.
-
 • Closing the ticket: If the issue has been totally resolved, then the user will get a message that the ticket has been closed.
 
 
