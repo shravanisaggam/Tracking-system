@@ -18,6 +18,7 @@ this as my project.
 
 
 The process module of the application which is given above gives a visual representation of the application functioning. It describes the following:
+
 • Requesting for a ticket: The user who has network issues or system problems, will have to request for a ticket so that the issue could
 be resolved.
 • Ticket Submission: Then the ticket will be submitted to the system by the user describing what the problem is.
@@ -32,6 +33,7 @@ the admin.
 
 I wanted this application to be user-friendly with various controls. There are features like prioritizing the work flow, transparency 
 in the system etc. So, to work on the project without any difficulties I followed these steps.
+
 • Initially, I defined all the core functionalities of the application, which means listing out all the things the application should 
 be able to do. For example, this application’s core functionalities are to allow users to register and login, technician login, problem
 resolution, report generation etc.
